@@ -1,2 +1,2 @@
 # car
-car repo
+car repo for git commands demostration
